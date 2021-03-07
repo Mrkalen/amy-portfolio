@@ -2,9 +2,9 @@ body {
   box-sizing: border-box;
   margin: auto;
   background-color: black;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
-a.navbar-brand {
-  color: rgb(240, 75, 149);
+.navbar-light .navbar-brand {
+  color: rgb(141, 78, 141);
 }
